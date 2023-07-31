@@ -5,28 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="501bd228-7ad2-43cd-b8fd-4e930d46bb13" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Allure Reports/Reports/1106f2b2-967e-4ef0-9d53-2dd37e5872ab-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Allure Reports/Reports/328b3d7e-7f7c-4159-a6bb-0a7c5599b829-attachment.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Allure Reports/Reports/4760393c-2abe-4066-b755-953b4121e246-attachment.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Allure Reports/Reports/58eff85c-cd54-4be9-b7d2-45baede2d8fd-attachment.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Allure Reports/Reports/5a3d790a-688c-41d5-a10d-6da3d401c329-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Allure Reports/Reports/6874e973-044c-459b-afe9-9e304fef36ab-attachment.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Allure Reports/Reports/73281c08-6286-43ed-bfc3-34736ec75abd-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Allure Reports/Reports/848cf1b9-e2a6-467b-aa90-9eedca406319-attachment.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Allure Reports/Reports/94204348-5b70-4048-93a5-dbfe3c2a2758-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Allure Reports/Reports/b31be3d9-01e8-4fb9-b565-029b4f02791e-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Allure Reports/Reports/b978cef2-673b-4182-a741-3e89ea465bb8-attachment.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Allure Reports/Reports/bae5007e-4c4b-4302-b503-66f96119e2cd-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Allure Reports/Reports/c33fdc5c-8b0f-4dbc-8d0b-6e4eddd55b13-attachment.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Allure Reports/Reports/d6c643ad-2732-4a62-8b1e-2e9a69b1cdfd-attachment.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Allure Reports/Reports/d6d4369f-8b99-4348-a380-48b234912f01-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Allure Reports/Reports/dc566252-030f-496e-9044-dce408bd772b-attachment.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Allure Reports/Reports/f4b45f8e-9561-4cfc-abff-105468a7b9b7-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Allure Reports/Reports/f82985b7-e8f6-4a73-aa5c-a3de5f583efd-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Allure Reports/Reports/fce00343-52c0-4b39-a4f6-7b1f2933f6a7-attachment.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Allure Reports/Reports/fd1ff4ac-2d74-4215-a807-2aa671e5da0d-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Reports/report.html" beforeDir="false" afterPath="$PROJECT_DIR$/Reports/report.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
